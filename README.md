@@ -3,7 +3,7 @@
 #### The four operations include Create,Read^Retrieve,Update and Delete.
 #### Here, I have implement REST CRUD with the help of an API project used to keep service records for a Home Appliance Service Centre.
 # Technologies invlolved:
-### MySQL
-### Postman
-### STS
-### Java
+#### MySQL
+#### Postman
+#### STS
+#### Java
